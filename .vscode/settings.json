@@ -1,0 +1,16 @@
+{
+    "files.autoGuessEncoding": true,
+    "files.associations": {
+        "*.src": "c"
+    },
+    "editor.snippetSuggestions": "bottom",
+    "C_Cpp.intelliSenseEngine": "Default",
+    "C_Cpp.errorSquiggles": "Disabled",
+    "taskButtons.buttons": [
+        {
+            "task": "Build file",
+            "buttonLabel": "Unit Tests"
+        }
+    ],
+    "rightclick.CommandToBind": "Build file"
+}
