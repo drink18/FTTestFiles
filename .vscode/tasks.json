@@ -6,7 +6,7 @@
         {
             "taskName": "Build file",
             "type": "shell",
-            "command": "p2f ${file} && p2f ${file} -dump par",
+            "command": "./p2f ${file} ; ./p2f ${file} -dump par",
             "problemMatcher":
             {
                 "owner": "c",
